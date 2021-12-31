@@ -62,3 +62,7 @@ body {
 .heros {
     text-shadow: none;
 }
+
+.alejandro-link:hover, .alejandro-link:active {
+    color:#40464b!important;
+}
